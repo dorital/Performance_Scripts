@@ -1,0 +1,769 @@
+list of free hosts sorted by name:
+*******************************************
+cost-esx1
+OS	esx
+fc_speed	???
+host_bw_MB/s	???
+iSCSI_10Gb	???
+java version	???
+total_cpu	???
+total_fc_active	???
+total_fc_ports	???
+total_memory	???
+version	???
+*******************************************
+fusionbr
+OS:	linux
+fc_speed:	16 Gbit
+host_bw_MB/s:	6400
+iSCSI_10Gb:	0
+java version:	openjdk version "1.8.0_144"
+total_cpu:	32
+total_fc_active:	4
+total_fc_ports:	8
+total_memory:	MemTotal:       297155292 kB
+version:	7.4
+*******************************************
+mc001
+OS:	linux
+fc_speed:	8 Gbit
+host_bw_MB/s:	1600
+iSCSI_10Gb:	0
+java version:	java version "1.8.0_151"
+total_cpu:	32
+total_fc_active:	2
+total_fc_ports:	2
+total_memory:	MemTotal:       131836836 kB
+version:	7.4
+*******************************************
+mc002
+OS:	linux
+fc_speed:	8 Gbit
+host_bw_MB/s:	1600
+iSCSI_10Gb:	0
+java version:	java version "1.8.0_151"
+total_cpu:	32
+total_fc_active:	2
+total_fc_ports:	2
+total_memory:	MemTotal:       131836836 kB
+version:	7.4
+*******************************************
+mc003
+OS:	linux
+fc_speed:	8 Gbit
+host_bw_MB/s:	1600
+iSCSI_10Gb:	0
+java version:	java version "1.8.0_151"
+total_cpu:	32
+total_fc_active:	2
+total_fc_ports:	2
+total_memory:	MemTotal:       131836836 kB
+version:	7.4
+*******************************************
+mc004
+OS:	linux
+fc_speed:	8 Gbit
+host_bw_MB/s:	1600
+iSCSI_10Gb:	0
+java version:	java version "1.8.0_151"
+total_cpu:	32
+total_fc_active:	2
+total_fc_ports:	2
+total_memory:	MemTotal:       131836788 kB
+version:	7.4
+*******************************************
+mc005
+OS:	linux
+fc_speed:	8 Gbit
+host_bw_MB/s:	1600
+iSCSI_10Gb:	0
+java version:	java version "1.8.0_151"
+total_cpu:	32
+total_fc_active:	2
+total_fc_ports:	2
+total_memory:	MemTotal:       131836836 kB
+version:	7.4
+*******************************************
+mc006
+OS:	linux
+fc_speed:	8 Gbit
+host_bw_MB/s:	1600
+iSCSI_10Gb:	0
+java version:	java version "1.8.0_151"
+total_cpu:	32
+total_fc_active:	2
+total_fc_ports:	2
+total_memory:	MemTotal:       131836836 kB
+version:	7.4
+*******************************************
+mc008
+OS:	linux
+fc_speed:	8 Gbit
+host_bw_MB/s:	1600
+iSCSI_10Gb:	0
+java version:	openjdk version "1.8.0_144"
+total_cpu:	32
+total_fc_active:	2
+total_fc_ports:	2
+total_memory:	MemTotal:       132006224 kB
+version:	7.4
+*******************************************
+mc009
+OS:	linux
+fc_speed:	8 Gbit
+host_bw_MB/s:	1600
+iSCSI_10Gb:	0
+java version:	java version "1.8.0_151"
+total_cpu:	32
+total_fc_active:	2
+total_fc_ports:	2
+total_memory:	MemTotal:       131836836 kB
+version:	7.4
+*******************************************
+mc010
+OS:	linux
+fc_speed:	8 Gbit
+host_bw_MB/s:	1600
+iSCSI_10Gb:	0
+java version:	java version "1.8.0_151"
+total_cpu:	32
+total_fc_active:	2
+total_fc_ports:	2
+total_memory:	MemTotal:       131836788 kB
+version:	7.4
+*******************************************
+mc015
+OS:	linux
+fc_speed:	8 Gbit
+host_bw_MB/s:	1600
+iSCSI_10Gb:	0
+java version:	java version "1.7.0_75"
+total_cpu:	32
+total_fc_active:	2
+total_fc_ports:	2
+total_memory:	MemTotal:       132141604 kB
+version:	
+*******************************************
+mc016
+OS:	linux
+fc_speed:	8 Gbit
+host_bw_MB/s:	1600
+iSCSI_10Gb:	0
+java version:	java version "1.8.0_151"
+total_cpu:	32
+total_fc_active:	2
+total_fc_ports:	2
+total_memory:	MemTotal:       131836836 kB
+version:	7.4
+*******************************************
+mc017
+OS:	linux
+fc_speed:	8 Gbit
+host_bw_MB/s:	1600
+iSCSI_10Gb:	0
+java version:	java version "1.7.0_51"
+total_cpu:	32
+total_fc_active:	2
+total_fc_ports:	2
+total_memory:	MemTotal:       132141608 kB
+version:	
+*******************************************
+mc018
+OS:	linux
+fc_speed:	8 Gbit
+host_bw_MB/s:	1600
+iSCSI_10Gb:	0
+java version:	java version "1.7.0_51"
+total_cpu:	32
+total_fc_active:	2
+total_fc_ports:	2
+total_memory:	MemTotal:       140415560 kB
+version:	
+*******************************************
+mc020
+OS:	linux
+fc_speed:	8 Gbit
+host_bw_MB/s:	1600
+iSCSI_10Gb:	0
+java version:	java version "1.8.0_151"
+total_cpu:	32
+total_fc_active:	2
+total_fc_ports:	2
+total_memory:	MemTotal:       115322756 kB
+version:	7.4
+*******************************************
+mc022
+OS:	linux
+fc_speed:	8 Gbit
+host_bw_MB/s:	3200
+iSCSI_10Gb:	0
+java version:	java version "1.8.0_151"
+total_cpu:	32
+total_fc_active:	4
+total_fc_ports:	4
+total_memory:	MemTotal:       131836832 kB
+version:	7.4
+*******************************************
+mc023
+OS:	linux
+fc_speed:	8 Gbit
+host_bw_MB/s:	3200
+iSCSI_10Gb:	0
+java version:	java version "1.8.0_151"
+total_cpu:	32
+total_fc_active:	4
+total_fc_ports:	4
+total_memory:	MemTotal:       123579304 kB
+version:	7.4
+*******************************************
+mc024
+OS:	linux
+fc_speed:	8 Gbit
+host_bw_MB/s:	1600
+iSCSI_10Gb:	0
+java version:	java version "1.7.0_91"
+total_cpu:	32
+total_fc_active:	2
+total_fc_ports:	4
+total_memory:	MemTotal:       132006624 kB
+version:	7.2
+*******************************************
+mc025
+OS:	linux
+fc_speed:	8 Gbit
+host_bw_MB/s:	1600
+iSCSI_10Gb:	0
+java version:	java version "1.8.0_151"
+total_cpu:	32
+total_fc_active:	2
+total_fc_ports:	4
+total_memory:	MemTotal:       131836792 kB
+version:	7.4
+*******************************************
+mc027
+OS:	linux
+fc_speed:	8 Gbit
+host_bw_MB/s:	3200
+iSCSI_10Gb:	0
+java version:	openjdk version "1.8.0_144"
+total_cpu:	32
+total_fc_active:	4
+total_fc_ports:	4
+total_memory:	MemTotal:       132005776 kB
+version:	7.4
+*******************************************
+mc030
+OS:	linux
+fc_speed:	8 Gbit
+host_bw_MB/s:	1600
+iSCSI_10Gb:	0
+java version:	openjdk version "1.8.0_144"
+total_cpu:	32
+total_fc_active:	2
+total_fc_ports:	2
+total_memory:	MemTotal:       132006272 kB
+version:	7.4
+*******************************************
+mc034
+OS:	linux
+fc_speed:	8 Gbit
+host_bw_MB/s:	1600
+iSCSI_10Gb:	2
+java version:	openjdk version "1.8.0_151"
+total_cpu:	24
+total_fc_active:	2
+total_fc_ports:	4
+total_memory:	MemTotal:       148537364 kB
+version:	7.4
+*******************************************
+mc035
+OS:	linux
+fc_speed:	8 Gbit
+host_bw_MB/s:	2400
+iSCSI_10Gb:	2
+java version:	java version "1.7.0_151"
+total_cpu:	24
+total_fc_active:	3
+total_fc_ports:	4
+total_memory:	MemTotal:       148537364 kB
+version:	7.4
+*******************************************
+mc036
+OS:	linux
+fc_speed:	8 Gbit
+host_bw_MB/s:	3200
+iSCSI_10Gb:	2
+java version:	openjdk version "1.8.0_144"
+total_cpu:	24
+total_fc_active:	4
+total_fc_ports:	4
+total_memory:	MemTotal:       148537364 kB
+version:	7.4
+*******************************************
+mc051
+OS:	linux
+fc_speed:	8 Gbit
+host_bw_MB/s:	1600
+iSCSI_10Gb:	2
+java version:	java version "1.8.0_151"
+total_cpu:	12
+total_fc_active:	2
+total_fc_ports:	2
+total_memory:	MemTotal:       36863320 kB
+version:	7.4
+*******************************************
+mc052
+OS:	linux
+fc_speed:	8 Gbit
+host_bw_MB/s:	1600
+iSCSI_10Gb:	2
+java version:	java version "1.8.0_151"
+total_cpu:	12
+total_fc_active:	2
+total_fc_ports:	2
+total_memory:	MemTotal:       36863320 kB
+version:	7.4
+*******************************************
+mc062
+OS:	linux
+fc_speed:	8 Gbit
+host_bw_MB/s:	3200
+iSCSI_10Gb:	0
+java version:	openjdk version "1.8.0_144"
+total_cpu:	32
+total_fc_active:	4
+total_fc_ports:	4
+total_memory:	MemTotal:       98975048 kB
+version:	7.4
+*******************************************
+mc063
+OS:	linux
+fc_speed:	8 Gbit
+host_bw_MB/s:	3200
+iSCSI_10Gb:	0
+java version:	java version "1.8.0_151"
+total_cpu:	32
+total_fc_active:	4
+total_fc_ports:	4
+total_memory:	MemTotal:       98808752 kB
+version:	7.4
+*******************************************
+mc064
+OS:	linux
+fc_speed:	8 Gbit
+host_bw_MB/s:	3200
+iSCSI_10Gb:	0
+java version:	java version "1.8.0_151"
+total_cpu:	32
+total_fc_active:	4
+total_fc_ports:	4
+total_memory:	MemTotal:       98808756 kB
+version:	7.4
+*******************************************
+mc065
+OS:	linux
+fc_speed:	16 Gbit
+host_bw_MB/s:	3200
+iSCSI_10Gb:	0
+java version:	openjdk version "1.8.0_144"
+total_cpu:	32
+total_fc_active:	2
+total_fc_ports:	6
+total_memory:	MemTotal:       197893064 kB
+version:	7.4
+*******************************************
+mc067
+OS:	linux
+fc_speed:	8 Gbit
+host_bw_MB/s:	1600
+iSCSI_10Gb:	0
+java version:	java version "1.8.0"
+total_cpu:	32
+total_fc_active:	2
+total_fc_ports:	8
+total_memory:	MemTotal:       197893060 kB
+version:	7.4
+*******************************************
+mc069
+OS:	linux
+fc_speed:	8 Gbit
+host_bw_MB/s:	1600
+iSCSI_10Gb:	2
+java version:	java version "1.8.0"
+total_cpu:	24
+total_fc_active:	2
+total_fc_ports:	8
+total_memory:	MemTotal:       197894120 kB
+version:	7.4
+*******************************************
+ndb3
+OS:	linux
+fc_speed:	8 Gbit
+host_bw_MB/s:	1600
+iSCSI_10Gb:	0
+java version:	java version "1.6.0_20"
+total_cpu:	12
+total_fc_active:	2
+total_fc_ports:	2
+total_memory:	MemTotal:       70103676 kB
+version:	6.1
+*******************************************
+ol01
+OS:	linux
+fc_speed:	8 Gbit
+host_bw_MB/s:	1600
+iSCSI_10Gb:	0
+java version:	openjdk version "1.8.0_151"
+total_cpu:	32
+total_fc_active:	2
+total_fc_ports:	4
+total_memory:	MemTotal:       131741048 kB
+version:	7.4
+*******************************************
+ol02
+OS:	linux
+fc_speed:	8 Gbit
+host_bw_MB/s:	1600
+iSCSI_10Gb:	0
+java version:	openjdk version "1.8.0_151"
+total_cpu:	32
+total_fc_active:	2
+total_fc_ports:	4
+total_memory:	MemTotal:       131741240 kB
+version:	7.3
+*******************************************
+ol03
+OS:	linux
+fc_speed:	8 Gbit
+host_bw_MB/s:	1600
+iSCSI_10Gb:	0
+java version:	openjdk version "1.8.0_151"
+total_cpu:	32
+total_fc_active:	2
+total_fc_ports:	4
+total_memory:	MemTotal:       131741236 kB
+version:	7.3
+*******************************************
+ol04
+OS:	linux
+fc_speed:	8 Gbit
+host_bw_MB/s:	1600
+iSCSI_10Gb:	0
+java version:	openjdk version "1.8.0_151"
+total_cpu:	32
+total_fc_active:	2
+total_fc_ports:	2
+total_memory:	MemTotal:       131736992 kB
+version:	7.4
+*******************************************
+ol05
+OS:	linux
+fc_speed:	8 Gbit
+host_bw_MB/s:	1600
+iSCSI_10Gb:	0
+java version:	openjdk version "1.8.0_151"
+total_cpu:	32
+total_fc_active:	2
+total_fc_ports:	2
+total_memory:	MemTotal:       131737184 kB
+version:	7.3
+*******************************************
+ol06
+OS:	linux
+fc_speed:	8 Gbit
+host_bw_MB/s:	1600
+iSCSI_10Gb:	0
+java version:	openjdk version "1.8.0_151"
+total_cpu:	32
+total_fc_active:	2
+total_fc_ports:	2
+total_memory:	MemTotal:       131737184 kB
+version:	7.3
+*******************************************
+ol07
+OS:	linux
+fc_speed:	8 Gbit
+host_bw_MB/s:	1600
+iSCSI_10Gb:	0
+java version:	java version "1.8.0_171"
+total_cpu:	32
+total_fc_active:	2
+total_fc_ports:	2
+total_memory:	MemTotal:       131837592 kB
+version:	7.2
+*******************************************
+ol09
+OS:	linux
+fc_speed:	8 Gbit
+host_bw_MB/s:	1600
+iSCSI_10Gb:	0
+java version:	openjdk version "1.8.0_181"
+total_cpu:	32
+total_fc_active:	2
+total_fc_ports:	2
+total_memory:	MemTotal:       131737180 kB
+version:	7.3
+*******************************************
+rmhost1
+OS:	linux
+fc_speed:	16 Gbit
+host_bw_MB/s:	6400
+iSCSI_10Gb:	0
+java version:	java version "1.8.0_171"
+total_cpu:	40
+total_fc_active:	4
+total_fc_ports:	6
+total_memory:	MemTotal:       395238088 kB
+version:	7.4
+*******************************************
+rmhost10
+OS:	linux
+fc_speed:	16 Gbit
+host_bw_MB/s:	6400
+iSCSI_10Gb:	0
+java version:	java version "1.8.0_181"
+total_cpu:	40
+total_fc_active:	4
+total_fc_ports:	6
+total_memory:	MemTotal:       395238088 kB
+version:	7.4
+*******************************************
+rmhost2
+OS:	linux
+fc_speed:	16 Gbit
+host_bw_MB/s:	6400
+iSCSI_10Gb:	0
+java version:	java version "1.8.0_171"
+total_cpu:	40
+total_fc_active:	4
+total_fc_ports:	6
+total_memory:	MemTotal:       395507580 kB
+version:	7.4
+*******************************************
+rmhost3
+OS:	linux
+fc_speed:	16 Gbit
+host_bw_MB/s:	6400
+iSCSI_10Gb:	0
+java version:	java version "1.8.0_171"
+total_cpu:	40
+total_fc_active:	4
+total_fc_ports:	6
+total_memory:	MemTotal:       395507580 kB
+version:	7.4
+*******************************************
+rmhost4
+OS:	linux
+fc_speed:	16 Gbit
+host_bw_MB/s:	6400
+iSCSI_10Gb:	0
+java version:	java version "1.8.0_181"
+total_cpu:	32
+total_fc_active:	4
+total_fc_ports:	6
+total_memory:	MemTotal:       197070676 kB
+version:	7.4
+*******************************************
+rmhost5
+OS:	linux
+fc_speed:	16 Gbit
+host_bw_MB/s:	6400
+iSCSI_10Gb:	0
+java version:	java version "1.8.0_181"
+total_cpu:	40
+total_fc_active:	4
+total_fc_ports:	6
+total_memory:	MemTotal:       395238088 kB
+version:	7.4
+*******************************************
+rmhost6
+OS:	linux
+fc_speed:	16 Gbit
+host_bw_MB/s:	6400
+iSCSI_10Gb:	0
+java version:	java version "1.8.0_181"
+total_cpu:	40
+total_fc_active:	4
+total_fc_ports:	6
+total_memory:	MemTotal:       395238088 kB
+version:	7.4
+*******************************************
+rmhost7
+OS:	linux
+fc_speed:	16 Gbit
+host_bw_MB/s:	6400
+iSCSI_10Gb:	0
+java version:	java version "1.8.0_171"
+total_cpu:	40
+total_fc_active:	4
+total_fc_ports:	6
+total_memory:	MemTotal:       395238088 kB
+version:	7.4
+*******************************************
+rmhost8
+OS:	linux
+fc_speed:	16 Gbit
+host_bw_MB/s:	6400
+iSCSI_10Gb:	0
+java version:	java version "1.8.0_171"
+total_cpu:	40
+total_fc_active:	4
+total_fc_ports:	6
+total_memory:	MemTotal:       131013464 kB
+version:	7.4
+*******************************************
+rmhost9
+OS:	linux
+fc_speed:	16 Gbit
+host_bw_MB/s:	6400
+iSCSI_10Gb:	0
+java version:	
+total_cpu:	40
+total_fc_active:	4
+total_fc_ports:	6
+total_memory:	MemTotal:       395238088 kB
+version:	7.4
+*******************************************
+wl10
+OS:	linux
+fc_speed:	8 Gbit
+host_bw_MB/s:	3200
+iSCSI_10Gb:	0
+java version:	java version "1.8.0_151"
+total_cpu:	32
+total_fc_active:	4
+total_fc_ports:	4
+total_memory:	MemTotal:       131836832 kB
+version:	7.4
+*******************************************
+wl12
+OS:	linux
+fc_speed:	8 Gbit
+host_bw_MB/s:	3200
+iSCSI_10Gb:	0
+java version:	java version "1.8.0_144"
+total_cpu:	24
+total_fc_active:	4
+total_fc_ports:	6
+total_memory:	MemTotal:       148355200 kB
+version:	7.4
+*******************************************
+wl15
+OS:	linux
+fc_speed:	8 Gbit
+host_bw_MB/s:	1600
+iSCSI_10Gb:	0
+java version:	openjdk version "1.8.0_144"
+total_cpu:	32
+total_fc_active:	2
+total_fc_ports:	2
+total_memory:	MemTotal:       132006204 kB
+version:	7.4
+*******************************************
+wl16
+OS:	linux
+fc_speed:	8 Gbit
+host_bw_MB/s:	1600
+iSCSI_10Gb:	0
+java version:	openjdk version "1.8.0_144"
+total_cpu:	32
+total_fc_active:	2
+total_fc_ports:	2
+total_memory:	MemTotal:       132006276 kB
+version:	7.4
+*******************************************
+wl17
+OS:	linux
+fc_speed:	8 Gbit
+host_bw_MB/s:	3200
+iSCSI_10Gb:	0
+java version:	openjdk version "1.8.0_144"
+total_cpu:	32
+total_fc_active:	4
+total_fc_ports:	4
+total_memory:	MemTotal:       65944180 kB
+version:	7.4
+*******************************************
+wl18
+OS:	linux
+fc_speed:	8 Gbit
+host_bw_MB/s:	3200
+iSCSI_10Gb:	0
+java version:	openjdk version "1.8.0_144"
+total_cpu:	32
+total_fc_active:	4
+total_fc_ports:	4
+total_memory:	MemTotal:       65943916 kB
+version:	7.4
+*******************************************
+wl23
+OS:	linux
+fc_speed:	8 Gbit
+host_bw_MB/s:	2400
+iSCSI_10Gb:	0
+java version:	java version "1.7.0_151"
+total_cpu:	32
+total_fc_active:	3
+total_fc_ports:	4
+total_memory:	MemTotal:       140263252 kB
+version:	7.4
+*******************************************
+wl24
+OS:	linux
+fc_speed:	8 Gbit
+host_bw_MB/s:	3200
+iSCSI_10Gb:	0
+java version:	java version "1.7.0_151"
+total_cpu:	32
+total_fc_active:	4
+total_fc_ports:	4
+total_memory:	MemTotal:       140263268 kB
+version:	7.4
+*******************************************
+wl26
+OS:	linux
+fc_speed:	8 Gbit
+host_bw_MB/s:	1600
+iSCSI_10Gb:	0
+java version:	java version "1.7.0_151"
+total_cpu:	32
+total_fc_active:	2
+total_fc_ports:	2
+total_memory:	MemTotal:       140263692 kB
+version:	7.4
+*******************************************
+wl9
+OS:	linux
+fc_speed:	8 Gbit
+host_bw_MB/s:	3200
+iSCSI_10Gb:	0
+java version:	java version "1.8.0_144"
+total_cpu:	24
+total_fc_active:	4
+total_fc_ports:	6
+total_memory:	MemTotal:       148361276 kB
+version:	7.4
+*******************************************
+xencitrix01
+OS:	linux
+fc_speed:	na
+host_bw_MB/s:	na
+iSCSI_10Gb:	2
+java version:	java version "1.6.0_24"
+total_cpu:	12
+total_fc_active:	0
+total_fc_ports:	0
+total_memory:	MemTotal:       74338944 kB
+version:	6.3
+*******************************************
+xencitrix02
+OS:	linux
+fc_speed:	na
+host_bw_MB/s:	na
+iSCSI_10Gb:	2
+java version:	java version "1.6.0_24"
+total_cpu:	12
+total_fc_active:	0
+total_fc_ports:	0
+total_memory:	MemTotal:       74339492 kB
+version:	6.3
